@@ -1,52 +1,82 @@
-<h1 align="center">Hey 👋, I'm Aryan Sharma</h1>
-<h3 align="center">Full-Stack & Embedded Systems Developer</h3>
+<h1 align="center">Hi, I'm Aryan Sharma 👋</h1>
 
 <p align="center">
-  <a href="https://aryan-portfolio-site.com" target="_blank">🌐 Website</a> •
-  <a href="mailto:aryansharma@email.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/aryan8911/" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/Aryan8911" target="_blank">💻 GitHub</a>
+  <strong>Full-Stack & Embedded Systems Developer | AI/ML Practitioner | Real-time Systems Engineer</strong>
+</p>
+
+<p align="center">
+  <a href="https://aryan-sharma-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> |
+  <a href="https://github.com/Aryan8911" target="_blank">💻 GitHub</a> |
+  <a href="https://www.kaggle.com/aryansharma8911" target="_blank">📊 Kaggle</a> |
+  <a href="mailto:aryansharma8911@gmail.com" target="_blank">📧 Email</a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **driver assistance and intelligent embedded systems**
-- 🌱 Currently exploring **Jetson Nano, MediaPipe, and YOLOv8 integration**
-- 💬 Ask me about **React, Flask, Python, Embedded C, Edge AI, or Jetson**
-- 📫 Reach me at: `aryansharma@email.com`
+
+I'm a passionate engineer building systems where **hardware meets AI**. I specialize in:
+
+- ⚙️ Real-time embedded systems using **ESP32**, **Jetson**, and **Raspberry Pi**
+- 📦 Full-stack development with **React**, **Node.js**, **MongoDB**
+- 🧠 AI/ML integration with **YOLOv8**, **MediaPipe**, **LSTM**, **TensorFlow**, and **PyTorch**
+- 🔌 End-to-end product prototyping: from edge inference to interactive web/mobile UIs
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Technologies & Tools
 
-- 💻 **Languages:** C++, Python, JavaScript, TypeScript, SQL  
-- 🌐 **Frontend:** React, Tailwind, Next.js, Shadcn, Bootstrap  
-- ⚙️ **Backend:** FastAPI, Flask, Node.js, MongoDB  
-- 🤖 **AI/ML:** YOLOv8, MediaPipe, LSTM, TFLite, TensorFlow  
-- 📦 **Embedded:** Raspberry Pi, ESP32, STM32, Jetson  
-- 🔧 **Tools:** Git, Docker, VS Code, Figma, Firebase  
+- **Frontend**: React, Tailwind CSS, Next.js
+- **Backend**: Node.js, Express, Flask, FastAPI
+- **Databases**: MongoDB, MySQL, Firebase
+- **Embedded/IoT**: Jetson, Raspberry Pi, Arduino, ESP32, CAN
+- **ML/DL**: YOLOv8, OpenCV, MediaPipe, TFLite, TensorFlow, PyTorch, LSTM
+- **Dev Tools**: Git, Docker, VSCode, Kafka, WebSockets, Vercel
+
+---
+
+### 🔧 Projects
+
+- **Driver Monitoring System** 🚗  
+  AI-based real-time monitoring using **YOLOv8 + MediaPipe** on Jetson/Raspberry Pi. Features include drowsiness, gaze tracking, emotion, and head pose detection.  
+
+- **Battery Health Prediction Dashboard** 🔋  
+  Realtime CAN data decoding, LSTM/LightGBM prediction, and live frontend updates via Kafka/WebSocket.  
+
+- **Smart EV Controller** ⚡  
+  Embedded control system using **ESP32** and **STM32**, integrated with CAN communication and LCD interfaces.
+
+More on my [Portfolio](https://aryan-sharma-portfolio.vercel.app)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan8911&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryan8911&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📌 Featured Project
-**🚘 Smart Driver Monitoring System**  
-> Built with React Native, Flask, YOLOv8, MediaPipe, and deployed on Raspberry Pi. Real-time alerts, fatigue detection, and behavior monitoring.
+### 📊 My Kaggle Work
 
-[🔗 View Project Repository](https://github.com/Aryan8911/driver-monitoring-system)
+Check out my Kaggle notebooks, visualizations, and ML competitions:  
+👉 [kaggle.com/aryansharma8911](https://www.kaggle.com/aryansharma8911)
 
 ---
 
-### 🙌 Let’s Connect!
+### 📫 Let's Connect
 
-> "Building at the intersection of hardware and intelligence."
+I'm always open to collaborations, research projects, or building something impactful together.
 
+- 📩 Mail: aryansharma8911@gmail.com  
+- 🌐 Website: [aryan-sharma-portfolio.vercel.app](https://aryan-sharma-portfolio.vercel.app)  
+- 🐱 GitHub: [@Aryan8911](https://github.com/Aryan8911)  
+- 📊 Kaggle: [@aryansharma8911](https://www.kaggle.com/aryansharma8911)
+
+---
+
+<p align="center">
+  <i>“Bridging code with circuits. Making intelligence portable.”</i>
+</p>
