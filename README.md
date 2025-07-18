@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aryan-sharma-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> |
+  <a href="" target="_blank">🌐 Portfolio</a> |
   <a href="https://github.com/Aryan8911" target="_blank">💻 GitHub</a> |
   <a href="https://www.kaggle.com/aryansharma8911" target="_blank">📊 Kaggle</a> |
   <a href="mailto:aryansharma8911@gmail.com" target="_blank">📧 Email</a>
