@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Aryan Sharma 👋</h1>
 <h3 align="center">Full-Stack & Embedded Systems Developer | AI/ML Engineer</h3>
 
-<p align="center">
-  <a href="https://aryan-sharma-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+
+  <a href="https://www.linkedin.com/in/aryan-sharma-813381251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kaggle.com/aryansharma8911" target="_blank">
+  <a href="https://www.kaggle.com/aryansharma8911" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:aryansharma8911@gmail.com" target="_blank">
