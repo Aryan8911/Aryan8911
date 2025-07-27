@@ -78,7 +78,6 @@ Real-time AI system for driver safety monitoring with:
 - Emotion recognition 😃😠
 - Head pose estimation 🧭
 
-[![View on GitHub](https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Aryan8911/driver-monitoring-system)
 
 #### 2. Battery Health Prediction 🔋
 [![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square)]() 
@@ -90,7 +89,33 @@ Real-time dashboard with:
 - LSTM/LightGBM models 📈
 - Live frontend updates ⚡
 
-[![View Demo](https://img.shields.io/badge/View_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://battery-health-demo.vercel.app)
+
+#### 3. Computer Vision Projects 🧠
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)]() 
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square)]() 
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)]()
+
+Diverse set of vision-based applications:
+- Object detection and segmentation 🟥
+- Panorama stitching 🧩
+- Custom classification & ML pipelines 📸
+
+Tech Stack: Python · OpenCV · TensorFlow · PyTorch · Keras
+
+
+#### 4. Portfolio Website 🌐
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)]()
+
+Minimal & responsive portfolio with:
+- 3D elements & animation 🎨
+- Skills, projects, and resume 🧾
+- Contact and blog integration 📬
+
+Tech Stack: React · Tailwind CSS · Three.js · Vercel
+
+
 
 ---
 
