@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aryan Sharma 👋</h1>
-<h3 align="center">Full-Stack & Embedded Systems Developer | AI/ML Engineer</h3>
+<h3 align="center">AI/ML Engineer | Data Engineer | Embedded & Front-End Developer</h3>
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/aryan-sharma-813381251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,13 +19,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan8911&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aryan8911" width="300"/>
 
-I'm an engineer passionate about building intelligent systems at the intersection of hardware and AI:
+I’m a developer passionate about creating **intelligent, data-driven systems** that blend AI, automation, and scalable software.
 
-- 🔭 Currently working on **Edge AI solutions** for industrial applications
-- 🌱 Learning **TinyML** and **ROS 2** for robotics applications
-- 👯 Looking to collaborate on **AI-powered embedded systems**
-- 💬 Ask me about **Computer Vision, IoT, or Full-Stack development**
-- ⚡ Fun fact: I can debug hardware circuits while drinking coffee ☕
+- 🧠 Building **AI/ML and Data Engineering** solutions for real-time automation  
+- 🧩 Experienced with **Edge AI** and **Embedded Systems** for industrial applications  
+- 🎯 Exploring **TinyML**, **ROS 2**, and **real-time inference** at the edge  
+- 💻 Interested in **Front-End Programming** and designing clean, interactive UIs  
+- ⚡ Fun fact: I can debug circuits and neural nets with the same focus (and caffeine) ☕
 
 ---
 
@@ -41,17 +41,19 @@ I'm an engineer passionate about building intelligent systems at the intersectio
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-#### **AI/ML**
+#### **AI/ML & Data Engineering**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/LightGBM-9C27B0?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
-#### **Full Stack**
+#### **Full Stack & Front-End**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -60,23 +62,31 @@ I'm an engineer passionate about building intelligent systems at the intersectio
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 
+#### **DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
 ---
 
 ### 🏆 Featured Projects
 
-#### 1. Driver Monitoring System 🚗
+#### 1. [Driver Monitoring System 🚗](https://github.com/Aryan8911/driver-monitoring-system)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)]() 
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)]() 
 [![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square)]()
 
-Real-time AI system for driver safety monitoring with:
+AI system for driver safety monitoring with:
 - Drowsiness detection 👀
 - Gaze tracking ↔️
 - Emotion recognition 😃😠
 - Head pose estimation 🧭
 
 
-#### 2. Battery Health Prediction 🔋
+#### 2. [Battery Health Prediction 🔋](https://github.com/Aryan8911/battery-health-prediction)
 [![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square)]() 
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square)]() 
 [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)]()
@@ -87,32 +97,26 @@ Real-time dashboard with:
 - Live frontend updates ⚡
 
 
-#### 3. Computer Vision Projects 🧠
+#### 3. [Computer Vision Projects 🧠](https://github.com/Aryan8911)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)]() 
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square)]() 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)]()
 
-Diverse set of vision-based applications:
-- Object detection and segmentation 🟥
+Includes:
+- Object detection & segmentation 🟥
 - Panorama stitching 🧩
-- Custom classification & ML pipelines 📸
-
-Tech Stack: Python · OpenCV · TensorFlow · PyTorch · Keras
+- Custom classification pipelines 📸
 
 
-#### 4. Portfolio Website 🌐
+#### 4. [Portfolio Website 🌐](https://github.com/Aryan8911/portfolio)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)]()
 
-Minimal & responsive portfolio with:
-- 3D elements & animation 🎨
-- Skills, projects, and resume 🧾
-- Contact and blog integration 📬
-
-Tech Stack: React · Tailwind CSS · Three.js · Vercel
-
-
+Responsive portfolio featuring:
+- 3D animations 🎨  
+- Skills, projects & resume integration 🧾  
+- Contact and blog pages 📬  
 
 ---
 
@@ -131,10 +135,10 @@ Tech Stack: React · Tailwind CSS · Three.js · Vercel
 
 ### 📫 Let's Collaborate!
 
-I'm always interested in:
-- 🤝 Open-source contributions
-- 🧠 AI/ML research collaborations
-- 🚀 Startup ideas in embedded AI
+I’m always open to:
+- 🤝 Open-source collaborations  
+- 🧠 AI/ML and Data Engineering projects  
+- 🚀 Front-end + automation-driven ideas  
 
 <p align="center">
   <a href="mailto:aryansharma8911@gmail.com">
@@ -143,5 +147,6 @@ I'm always interested in:
 </p>
 
 <p align="center">
-  <i>"Turning coffee into code and ideas into intelligent systems"</i> ☕💻
+  <i>"Turning coffee into code and ideas into intelligent systems."</i> ☕💻<br/>
+  <b>Let's build the future of AI-powered automation together.</b>
 </p>
