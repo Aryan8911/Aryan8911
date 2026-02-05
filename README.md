@@ -1,121 +1,152 @@
 <h1 align="center">Hi, I'm Aryan Sharma 👋</h1>
-<h3 align="center">AI Engineer | Full-Stack SDE | Embedded & Edge AI Developer</h3>
+<h3 align="center">AI/ML Engineer | Data Engineer | Embedded & Front-End Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-sharma-813381251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/aryansharma8911" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:aryansharma8911@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aryan-sharma-813381251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/aryansharma8911" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:aryansharma8911@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan8911&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Langs"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan8911&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aryan8911" width="300"/>
 
-I’m a hands-on engineer building **real-time AI systems** that actually run in production.
+I’m a developer passionate about creating **intelligent, data-driven systems** that blend AI, automation, and scalable software.
 
-- 🧠 **AI/ML:** Computer Vision, Edge AI, real-time inference (YOLO, MediaPipe, LSTM).
-- 📊 **Data Science:** Advanced visualizations and pipelines with Spark, Tableau & Orange.
-- 💻 **Software Engineering:** REST APIs, scalable backends, full-stack systems.
-- 🧩 **Embedded & Edge:** Jetson, Raspberry Pi, ESP32 with optimized pipelines.
-- ⚡ **Focus:** Low-latency, production-ready, end-to-end systems.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Data Science & Analytics
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-F25022?style=for-the-badge&logo=apachespark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-FF9800?style=for-the-badge&logo=orange&logoColor=white)
-
-### Full-Stack & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Embedded & Edge
-![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- 🧠 Building **AI/ML and Data Engineering** solutions for real-time automation  
+- 🧩 Experienced with **Edge AI** and **Embedded Systems** for industrial applications  
+- 🎯 Exploring **TinyML**, **ROS 2**, and **real-time inference** at the edge  
+- 💻 Interested in **Front-End Programming** and designing clean, interactive UIs  
+- ⚡ Fun fact: I can debug circuits and neural nets with the same focus (and caffeine) ☕
 
 ---
 
-## 🏆 Featured Projects
-> 🧪 All projects are benchmarked, optimized, and designed for real-world constraints (latency, FPS, memory).
+### 🛠️ Tech Stack
 
-### 🚗 [Driver Monitoring System](https://github.com/Aryan8911/driver-monitoring-system)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square) ![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square)
+#### **Embedded & Edge AI**
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="RPi"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
 
-- **Real-time detection:** Drowsiness, gaze & head-pose.
-- **Performance:** < 100 ms end-to-end latency on Jetson & Raspberry Pi.
-- **Optimization:** TensorFlow Lite quantization → **40% model size reduction**.
+#### **AI/ML & Data Engineering**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/LightGBM-9C27B0?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-### 🏥 [Hospital Management System](https://github.com/Aryan8911/hospital-management)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+#### **Full Stack & Front-End**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
 
-- **Full-Stack:** React frontend with JWT authentication & RBAC.
-- **Backend:** MySQL relational schema with optimized queries.
-- **Impact:** Reduced appointment booking errors by **25%**.
-
-### 🔋 [Battery Health Prediction (IoT)](https://github.com/Aryan8911/battery-health-prediction)
-![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
-
-- **Data Pipeline:** Real-time CAN data ingestion using Apache Kafka.
-- **Modeling:** LSTM & LightGBM time-series modeling.
-- **Visualization:** Live WebSocket-based dashboard updates.
-
-### 🖼️ [Image Captioning Bot](https://github.com/Aryan8911/image-captioning)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-FFD21E?style=flat-square)
-
-- **Architecture:** ResNet-based feature extraction.
-- **Generation:** LSTM sequence generation with beam search.
-- **Result:** Improved caption quality by **~25%**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan8911&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+#### **DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 ---
 
-## 📫 Let’s Collaborate
+### 🏆 Featured Projects
 
-I’m open to **AI / Edge AI** projects, **Full-stack** development, and **Open-source** collaborations.
+#### 1. [Driver Monitoring System 🚗](https://github.com/Aryan8911/driver-monitoring-system)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)]() 
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)]() 
+[![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square)]()
+
+AI system for driver safety monitoring with:
+- Drowsiness detection 👀
+- Gaze tracking ↔️
+- Emotion recognition 😃😠
+- Head pose estimation 🧭
+
+
+#### 2. [Battery Health Prediction 🔋](https://github.com/Aryan8911/battery-health-prediction)
+[![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square)]() 
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square)]() 
+[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)]()
+
+Real-time dashboard with:
+- CAN data decoding 📡
+- LSTM/LightGBM models 📈
+- Live frontend updates ⚡
+
+
+#### 3. [Computer Vision Projects 🧠](https://github.com/Aryan8911)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)]() 
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square)]() 
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)]()
+
+Includes:
+- Object detection & segmentation 🟥
+- Panorama stitching 🧩
+- Custom classification pipelines 📸
+
+
+#### 4. [Portfolio Website 🌐](https://github.com/Aryan8911/portfolio)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)]()
+
+Responsive portfolio featuring:
+- 3D animations 🎨  
+- Skills, projects & resume integration 🧾  
+- Contact and blog pages 📬  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:aryansharma8911@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-aryansharma8911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Aryan8911&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <i>Turning coffee into code and ideas into intelligent systems ☕💻</i>
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Aryan8911&theme=onedark&row=2&column=3" />
+</p>
+
+---
+
+### 📫 Let's Collaborate!
+
+I’m always open to:
+- 🤝 Open-source collaborations  
+- 🧠 AI/ML and Data Engineering projects  
+- 🚀 Front-end + automation-driven ideas  
+
+<p align="center">
+  <a href="mailto:aryansharma8911@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-blue?style=for-the-badge&logo=gmail" alt="Contact Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Turning coffee into code and ideas into intelligent systems."</i> ☕💻<br/>
+  <b>Let's build the future of AI-powered automation together.</b>
 </p>
