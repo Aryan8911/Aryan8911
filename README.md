@@ -99,7 +99,7 @@ I’m a hands-on engineer building **real-time AI systems** that actually run in
 
 ---
 
-## 📊 GitHub Stats (Fixed ✅)
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight&hide_border=true"/>
