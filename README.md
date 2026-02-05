@@ -129,7 +129,7 @@ Real-time IOT dashboard with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight&count_private=flase" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Aryan8911&theme=tokyonight" alt="Streak Stats" />
 </p>
 
