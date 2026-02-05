@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan8911&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Langs"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan8911&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 I’m a hands-on engineer building **real-time AI systems** that actually run in production.
 
@@ -100,7 +100,7 @@ I’m a hands-on engineer building **real-time AI systems** that actually run in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan8911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=Aryan8911&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
