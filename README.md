@@ -5,18 +5,19 @@
   <a href="https://www.linkedin.com/in/aryan-sharma-813381251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://www.kaggle.com/aryansharma8911" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+
   <a href="mailto:aryansharma8911@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-aryansharma8911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-aryansharma8911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://aryansharma-wpsb.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website--blue?style=flat&logo=bitrise" alt="Badge">
-    alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
